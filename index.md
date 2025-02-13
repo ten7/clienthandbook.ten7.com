@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  TEN7 Employee Handbook
+title:  TEN7 Client Handbook
 opener: Introduction
 ---
 
